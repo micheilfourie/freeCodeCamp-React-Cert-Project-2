@@ -1,7 +1,7 @@
 {
   "name": "freecodecamp-react-cert-project-2",
   "version": "0.1.0",
-  "homepage": "https://micheilfourie.github.io/[project name]",
+  "homepage": "https://micheilfourie.github.io/freeCodeCamp-React-Cert-Project-2",
   "private": true,
   "dependencies": {
     "highlight.js": "^11.10.0",
